@@ -1,0 +1,17 @@
+{
+    "name": "minuz/muray",
+    "description": "SImple multi dimesional array library to use",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Minuz\\Muray\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Angelium-Eddra",
+            "email": "angelium.eddra1972@gmail.com"
+        }
+    ],
+    "require": {}
+}
